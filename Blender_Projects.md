@@ -9,3 +9,4 @@ A separate collection of 3D work created in Blender, including modeling and crea
 🎨 Creative 3D design practice
 
 🔗 View Full Blender Repository: 
+https://github.com/feedoria/Blender-Projects
